@@ -9,6 +9,6 @@ https://dashboard.ngrok.com
 
 3. sao chép địa chỉ máy chủ từ https://dashboard.ngrok.com/status/tunnels
 
-default username : administration
+default username : administrator
 
 default password : 22022007

@@ -1,13 +1,13 @@
-# windows–rdp
+# windowsSV2019-RDP
 
-ezy setup just some steps
+Hướng dẫn tạo VPS WindowsSV19
 
-1. signup here if you dont have ngrok account
+1. đăng ký tại đây nếu bạn không có tài khoản ngrok
 https://dashboard.ngrok.com
 
-2. copy token to secrets as `NGROK_AUTH_TOKEN`
+2. sao chép mã token vào secrets với mã `NGROK_AUTH_TOKEN`
 
-3. copy host address from https://dashboard.ngrok.com/status/tunnels
+3. sao chép địa chỉ máy chủ từ https://dashboard.ngrok.com/status/tunnels
 
 default username : administration
 
